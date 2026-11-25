@@ -1,6 +1,6 @@
 # CriptView
 
-CriptView es una aplicación web de monitorización de criptomonedas desarrollada con Python y Streamlit.
+CryptView es una aplicación web de monitorización de criptomonedas desarrollada con Python y Streamlit.
 
 Obtiene información del mercado de criptomonedas mediante la API de CoinGecko, almacena los precios históricos en una base de datos SQLite y muestra la información a través de un panel interactivo.
 
